@@ -86,8 +86,7 @@ To deliver the precise comparative analytics requested by the sales department, 
 ---
 
 ## 🚀 How to Interact with this Project
-1.  Download the `My_Awesome_Report.pbix` (or `.pbip` directory) from this repository.
+1.  Download the `pbix` (or `.pbip` directory) from this repository.
 2.  Open it in **Power BI Desktop**.
 3.  Use the global left-hand filter pane to slice data by **Country** (China, Germany, United States) and **State** to see regional performance update dynamically.
 
-*Alternatively, view my live interactive profile on [Insert your NovyPro or Power BI Publish to Web link here].*
