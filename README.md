@@ -1,7 +1,7 @@
 # Global Tech Products: Executive Sales Performance & Forecast Analysis
 
 ## 📊 Dashboard Preview
-![Sales Analysis Dashboard](Screenshots/sales_analysis_dashboard.png)
+<img width="1208" height="682" alt="image" src="https://github.com/user-attachments/assets/d341e425-2e08-4d9d-92c2-a0c89997bfd3" />
 
 ## 🎯 Project Overview & Business Problem
 The sales leadership team of a global technology retail corporation required an operational intelligence solution to evaluate historical sales trends, understand customer purchasing behavior, and measure actual performance against target forecasts. 
